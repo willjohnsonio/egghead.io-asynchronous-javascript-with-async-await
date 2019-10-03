@@ -17,7 +17,7 @@ function showGitHubUser(handle) {
         });
 }
 ```
-Let's convert our regualr function into an asynchronous function with the ```<async>``` and ```<await>``` keywords
+Let's convert our regualar function into an asynchronous function with the ```<async>``` and ```<await>``` keywords
 
 **To make this function asynchronous add the async keyword before the function keyword**
 

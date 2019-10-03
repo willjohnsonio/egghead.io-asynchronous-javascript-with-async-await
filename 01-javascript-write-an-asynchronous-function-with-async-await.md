@@ -42,7 +42,7 @@ Then we want to convert the ```<response>``` to JSON. The ```<.json>``` method r
 ```javascript
 const user = await response.json();
 ```
-Our function looks like it runs on order from top to bottom. No more promise chains. This makes it a lot easier to understand.
+Our function looks like it runs in order from top to bottom. No more promise chains. This makes it a lot easier to understand.
 
 ```javascript
 async function showGitHubUser(handle){

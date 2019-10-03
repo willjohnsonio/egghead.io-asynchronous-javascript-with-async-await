@@ -5,4 +5,4 @@ These is a repo of notes taken for Marius Schulz's couse on the async and await 
 
 ## Feel free to sumbit a PR to improve these notes
 
-Notes for Marius Schulz's Asynchronous JavaScript with async/await workshop on [egghead.io](https://egghead.io)
+Notes for Marius Schulz's [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) workshop on [egghead.io](https://egghead.io)

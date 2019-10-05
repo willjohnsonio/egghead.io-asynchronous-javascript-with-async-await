@@ -55,11 +55,14 @@ console.log(user.location);
 ```
 
 
-
-
 # Resources
 [async keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 [await keyword MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+
+<p align="center">
+<a href="https://github.com/wjohnson85/egghead.io-asynchronous-javascript-with-async-await/blob/master/02-javascript-call-an-asynchronous-function-in-a-promise-chain.md">Next -></a>
+</p>
+
 
 
